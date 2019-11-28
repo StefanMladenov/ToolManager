@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Tool Manager</string>
+
+    <!-- Login screen -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logo">Logo</string>
+    <string name="no_acc">"Don't have an account yet?  "</string>
+    <string name="have_acc">Already have account?</string>
+    <string name="Sign_up_now"><u>Sign up now</u></string>
+    <string name="Remember_me">Remember me</string>
+    <string name="google_sign_in">Sign in with google</string>
+    <!--end of login screen -->
+
+    <!-- Register screen -->
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">REGISTER</string>
+    <string name="log_in">LOG IN</string>
+    <!-- end of register screen -->
+
+    <!-- Profile screen -->
+    <string name="hospital">Hospital:</string>
+    <string name="username_two_dots">Username:</string>
+    <string name="email_two_dots">Email:</string>
+    <string name="change_password">Change Password</string>
+    <string name="title_activity_profile">Profile</string>
+    <!-- end of profile screen -->
+
+    <!-- Main screen -->
+    <string name="title_tag">Tag</string>
+    <string name="title_map">Map</string>
+    <string name="title_location_tag">Location Tag</string>
+    <!-- end of main screen -->
+
+    <!-- Navigation drawer -->
+    <string name="nav_add_location_tag">Add location tag</string>
+    <string name="nav_add_tag">Add tag</string>
+    <string name="nav_scan_location_tags">Scan location tags</string>
+    <string name="nav_scan_tags">Scan tags</string>
+    <string name="logout">Log out</string>
+    <string name="exit">Exit</string>
+    <string name="scan">Scan</string>
+    <string name="search_by_criteria">Filter by</string>
+    <string name="settings">Settings</string>
+    <!-- end of navigation drawer -->
+
+</resources>
